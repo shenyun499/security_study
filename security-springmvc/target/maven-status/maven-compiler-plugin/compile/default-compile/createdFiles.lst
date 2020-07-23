@@ -1,0 +1,4 @@
+com\xue\init\SpringApplicationInitializer.class
+com\xue\config\WebConfig.class
+com\xue\config\ApplicationConfig.class
+com\xue\controller\TestController.class
