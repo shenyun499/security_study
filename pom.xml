@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>security-springmvc</module>
+        <module>security_session1</module>
     </modules>
 
 
